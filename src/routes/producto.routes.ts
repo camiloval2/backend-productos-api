@@ -12,3 +12,4 @@ router.put('/:id', controller.actualizar);
 router.delete('/:id', controller.eliminar);
 
 export default router;
+
