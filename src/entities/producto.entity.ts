@@ -35,3 +35,4 @@ Producto.init(
     tableName: 'productos',
   }
 );
+
